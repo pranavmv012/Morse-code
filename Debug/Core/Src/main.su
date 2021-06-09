@@ -1,0 +1,13 @@
+main.c:93:5:main	8	static
+main.c:141:6:SystemClock_Config	96	static
+main.c:183:13:MX_GPIO_Init	32	static
+main.c:209:6:nameExtract	24	static
+main.c:223:6:fdotCode	8	static
+main.c:232:6:fdashCode	8	static
+main.c:241:6:fspaceCode	8	static
+main.c:250:6:ldotCode	8	static
+main.c:259:6:ldashCode	8	static
+main.c:268:6:lspaceCode	8	static
+main.c:278:6:fgenerateMorse	16	static
+main.c:505:6:lgenerateMorse	16	static
+main.c:734:6:Error_Handler	4	static
